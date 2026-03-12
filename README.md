@@ -21,6 +21,11 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+Name:Harish P
+
+Reg.no: 212225040115
+
+Year: I year
 ```
 import numpy as np
 import math
